@@ -13,7 +13,6 @@ function problemFour($input){
             $rs[$item] += 1;    
         }else
             $rs[$item] = 1;
-        echo $item;
     }
     foreach($rs as $key => $item){
         echo "{$key}:{$item} \n";
