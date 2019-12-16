@@ -2,11 +2,14 @@
 
 Track Street assessment test done in PHP
 
+## Prerequites
+
+* Having [Docker](https://docs.docker.com/v17.09/engine/installation/#cloud) installed.
+
 ## Getting Started
 
-The composer file will automate the process.
-
+Clone the repo and then from the command line run composer update
 
 ## Authors
 
-* **Ryan Smith** - *Use Githib but primary use Bitbucket* - [Ryan](https://github.com/itsjstme/)
+**[Ryan Smith](https://github.com/itsjstme/)** 
