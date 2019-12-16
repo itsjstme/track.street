@@ -1,11 +1,18 @@
-"require": {
-    "php": ">=5.4"
-},
-"scripts": {
-    "post-update-cmd": [
-        "php answer1.php",
-        "php answer2.php",
-        "php answer3.php",
-        "php answer4.php"
-    ]
+{
+    "name": "Track Street",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Ryan Smith",
+            "email": "ryan876smith@gmail.com"
+        }
+    ],
+    "scripts": {
+        "post-update-cmd": [
+            "php answer1.php",
+            "php answer2.php",
+            "php answer3.php",
+            "php answer4.php"
+        ]
+    }    
 }
